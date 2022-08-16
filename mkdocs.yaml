@@ -1,0 +1,3 @@
+site_name: 'example-template'
+nav:
+  - Home: index.md
